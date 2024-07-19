@@ -32,7 +32,6 @@ cmake-build-debug/
 
 ## Plugin-specific files:
 
-.vscode/
 
 # IntelliJ
 out/
@@ -196,6 +195,7 @@ AutoTest.Net/
 # Installshield output folder
 [Ee]xpress/
 
+temp_auto_push.bat
 # DocProject is a documentation generator add-in
 DocProject/buildhelp/
 DocProject/Help/*.HxT
@@ -393,3 +393,4 @@ dist
 /.env
 /.env.*.local
 *._local.ts
+branch_structure.json
